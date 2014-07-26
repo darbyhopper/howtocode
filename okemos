@@ -1,0 +1,580 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+	<head>
+		<link rel="icon" href="/favicon.ico" type="image/ico" />
+		<link rel="shortcut icon" href="/favicon.ico"  type="image/ico" />
+                <meta http-equiv="PICS-Label" content='(PICS-1.1 "http://www.classify.org/safesurf/" labels generic true ratings (SS~~000 1))' />
+                <meta http-equiv="Cache-Control" content="no-cache, no-store" />
+                <meta http-equiv="Pragma" content="no-cache" />
+                <meta http-equiv="Expires" content="-1" />
+                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+                <meta http-equiv="imagetoolbar" content="no" />
+		<meta http-equiv="Last-Modified" content="Thu, 24 Jul 2014 10:46:31  EST" />
+		<meta name="Keywords" content="" />
+		<meta name="Description" content="" />
+		<meta name="Generator" content="TH(i)NQ Ed - SchoolCenter Web Tools Version 11.0.67 - www.thinqed.com" />
+		<meta name="Copyright" content="2014 - Okemos High School" />
+		<style type="text/css">
+body						{ padding:0; border:0; margin:0; color:#000000; font: 10pt verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; background: #FFFFFF url(/images/backgrounds/background_theme_61.jpg) repeat-y scroll center top;}
+#header h1                 { display:inline; padding-left:4px; padding-right:4px; padding-top:0; padding-bottom:0; text-align:right; color:#00FFFF; font-size:16pt; font-weight:bold;}
+a                          { color:#0033CC; text-decoration:none;}
+a:visited                  { color:#0033CC; text-decoration:none;}
+a:hover                    { color:#0033CC; text-decoration:underline;}
+a:active                   { color:#0033CC; text-decoration:none;}
+.textbox                   { font-family:verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; font-size: small; background:#FFFFFF; border:1px solid #ccc; color:#000000;}
+.adminLink                 { color:#000000; font-family:verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; font-size:12px; text-decoration:none;}
+a:hover.adminLink          { color:#FFFFFF; background:#006699; font-family:verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; font-size:12px; text-decoration:none;}
+a.adminLink                { color:#000000; font-family:verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; font-size:12px; text-decoration:none;}
+.hlLink                    { font-family:verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; color: #0033CC; font-size:9px; text-decoration:none;}
+a:hover.hlLink             { font-family:verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; font-size:9px; text-decoration:none;}
+a.hlLink                   { color:#0033CC; font-family:verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; font-size:9px; text-decoration:none;}
+.searchString              { color:#000000; font-family:verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; text-decoration: overline underline; background: yellow;}
+.toolbarLink               { font-family:Verdana Arial Helvetica; font-size:9px; color:#FFFFFF; text-decoration:none;}
+a.calToolBar               { font-family:verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; font-size:10pt; text-decoration:none;}
+table.tabs                 { border-top:none; border-right:none; border-left:none; border-bottom:none;}
+.standard-01               { font-family:verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; font-size:10pt;}
+#adminButtons              { background:transparent; color:#FFFFFF; width:100%; padding:0; margin:0;}
+#skel-mid-center-cont      { background-color:transparent;}
+#skel-mid-vert-center-cont { background-color:transparent;}
+#page-content { vertical-align: top; }
+#page-frame-topleft { vertical-align: bottom; }
+#page-frame-topleft img { float: right; }
+#page-frame-topright { vertical-align: bottom; }
+#page-frame-topright img { float: right; }
+#page-frame-bottomleft { vertical-align: top; }
+#page-frame-bottomleft img { float: left; }
+#page-frame-bottomright { vertical-align: top; }
+#page-frame-bottomright img { float: left; }div.skin-toolbar-offset-div-inner {
+	background-image: url(/images/backgrounds/background_theme_61.jpg);
+}
+			p { margin-top: 0px; }
+.grid-cell { padding: 2px; vertical-align: top; }            .pipe-splitter {font-size:12pt; padding:0 0 0 4px;}
+#image-container         {float:left; width:900px; height:150px; background-color:transparent;}
+#image-tbl               {width:100%; height:100%;}
+#image-tbl-td            {width:auto; height:auto; vertical-align:top;}
+            #horizontal-border-container-table {width:900px; padding:0; margin:0;  border:0;}
+.nav-menu-auxilliary-link-horizontal-item-first {border-width:0px 0px 0px 0px; border-style:solid; border-color:transparent; margin: 0px 1.5px 0px 1.5px;}
+.nav-menu-auxilliary-link-horizontal-item-last {border-width:0px 0px 0px 0px; border-style:solid; border-color:transparent; margin:3px 1.5px 0px 1.5px;}
+.nav-menu-auxilliary-link-horizontal-item-middle {border-width:0px 0px 0px 0px; border-style:solid; border-color:transparent; margin:3px 1.5px 0px 1.5px;}
+.nav-menu-auxilliary-link-vertical-item-all-first {border-width:0px; border-style:solid; border-color:transparent; margin: 3px 3px 0px 3px;}
+.nav-menu-auxilliary-link-vertical-item-all-last {border-width:0px; border-style:solid; border-color:transparent; margin:3px 3px 3px 3px;}
+.nav-menu-auxilliary-link-vertical-item-all-middle {border-width:0px; border-style:solid; border-color:transparent; margin:3px 3px 0px 3px;}
+.nav-menu-auxilliary-link-vertical-item-first {border-width:0px 0px 0px 0px; border-style:solid; border-color:transparent; margin: 0px 0px 0px 0px;}
+.nav-menu-auxilliary-link-vertical-item-last {border-width:0px 0px 0px 0px; border-style:solid; border-color:transparent; margin:3px 0px 0px 0px;}
+.nav-menu-auxilliary-link-vertical-item-middle {border-width:0px 0px 0px 0px; border-style:solid; border-color:transparent; margin:3px 0px 0px 0px;}
+.nav-menu-image-drop-down {width:10px; height:10px; vertical-align:baseline; float:left; padding:0px; margin:0px; border:0px;}
+.nav-menu-link-container-horizontal-primary-float a.nav-menu-auxilliary-link-horizontal-item-primary-selected {background-color:#99CCFF; color:#000000; text-decoration:none; font-family:verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; font-size:13px; font-weight: bold }
+.nav-menu-link-container-horizontal-primary-float a.nav-menu-auxilliary-link-horizontal-item-primary-unselected {background-color:transparent; color:#660000; text-decoration:none; font-family:verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; font-size:13px;}
+.nav-menu-link-container-horizontal-primary-float a:hover.nav-menu-auxilliary-link-horizontal-item-primary-selected {background-color:#99CCFF; color:#000000; text-decoration:none; font-family:verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; font-size:13px; font-weight: bold }
+.nav-menu-link-container-horizontal-primary-float a:hover.nav-menu-auxilliary-link-horizontal-item-primary-unselected {background-color:#99CCFF; color:#000000; text-decoration:none; font-family:verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; font-size:13px;}
+.nav-menu-link-container-horizontal-primary-float {height:auto; font-size:13; background-color:transparent; clear:none; position:relative; display:inline;display:inline-block; white-space:normal; width:auto; cursor:pointer;}
+.nav-menu-link-container-vertical-primary-float a.nav-menu-auxilliary-link-vertical-item-primary-unselected {background-color:transparent; color:#660000; text-decoration:none; font-family:verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; font-size:13px;}
+.nav-menu-link-container-vertical-primary-float a:hover.nav-menu-auxilliary-link-vertical-item-primary-unselected {background-color:#99CCFF; color:#000000; text-decoration:none; font-family:verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; font-size:13px;}
+.nav-menu-link-container-vertical-primary-float {height:auto; font-size:13; background-color:transparent; clear:both; position:relative; display:block; white-space:normal; width:130px; cursor:pointer;}
+.nav-menu-link-container-vertical-secondary-float a.nav-menu-auxilliary-link-vertical-item-secondary-unselected {background-color:transparent; color:#660000; text-decoration:none; font-family:verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; font-size:13px;}
+.nav-menu-link-container-vertical-secondary-float a:hover.nav-menu-auxilliary-link-vertical-item-secondary-unselected {background-color:#99CCFF; color:#000000; text-decoration:none; font-family:verdana, arial, helvetica, Verdana, Arial, Helvetica,sans-serif; font-size:13px;}
+.nav-menu-link-container-vertical-secondary-float {height:auto; font-size:13; background-color:transparent; clear:both; position:relative; display:block; white-space:normal; width:150px; cursor:pointer;}
+.nav-menu-link-horizontal-primary-float {display:inline; padding:2px 4px; cursor:pointer; font-size:13px; width:auto; height:20px; line-height:20px; text-align:left; white-space: nowrap}
+.nav-menu-link-vertical-primary-float {display:block; padding:2px 4px; cursor:pointer; font-size:13px; width:auto; height:auto; line-height:100%; text-align:left; white-space: normal}
+.nav-menu-link-vertical-secondary-float {display:block; padding:2px 4px; cursor:pointer; font-size:13px; width:auto; height:auto; line-height:100%; text-align:left; white-space: normal}
+.nav-menu-outer-block-horizontal-primary-float {background-color:transparent; position:relative;z-index:50; display:block; width:auto; text-align:left; list-style:none; padding:0px;margin:0px auto;}
+.nav-menu-outer-block-vertical-primary-float {background-color:transparent; position:relative;z-index:50; display:block; width:auto; text-align:left; list-style:none; padding:0px; margin:0px auto;}
+.nav-menu-outer-block-vertical-secondary-float {background-color:transparent; position:relative;z-index:50; display:block; width:auto; text-align:left; list-style:none; padding:0px; margin:0px auto;}
+.nav-menu-outer-container-horizontal-primary-float-1 {font-size:0px; position:relative; display:block; visibility:visible; z-index:401; width:770px;; background-color:transparent; clear:both; margin:0px auto 0px 130px; border-width:0px 0px 0px 0px; border-style:solid; border-color:transparent;}
+.nav-menu-outer-container-vertical-primary-float-4 {font-size:0px; position:relative; display:block; visibility:visible; z-index:400; width:130px;; background-color:transparent; clear:both; margin:0px auto 0px 0px; border-width:0px 0px 0px 0px; border-style:solid; border-color:transparent;}
+.nav-menu-outer-container-vertical-secondary-float-1 {font-size:0px; position:absolute; display:none; visibility:hidden; z-index:412; width:150px;; top:21px; left:-1.5px; background-color:#CCCCCC; clear:both; margin:0px auto 0px 0px; border-width:0px 0px 0px 0px; border-style:solid; border-color:transparent;}
+.nav-menu-outer-container-vertical-secondary-float-4 {font-size:0px; position:absolute; display:none; visibility:hidden; z-index:410; width:150px;; top:0px; left:120px; background-color:#CCCCCC; clear:both; margin:0px auto 0px 0px; border-width:0px 0px 0px 0px; border-style:solid; border-color:transparent;}
+#page                        { margin: 0px; ;}
+.page                        { margin:0px auto; width:900px;}
+#header                      { z-index:0; position:relative; }
+#main                        { z-index:auto; position:relative; width:900px; border:0px; padding:0px; margin:0px;}
+#content-container           { clear:both;}
+#content                     { width:99%; height:99%; }
+#info-bar-container          { width:750px; float:left; clear:both; }
+#info-bar-block              { margin-bottom:5px; padding-top:5px; padding-left:3px;}
+#info-bar-date-block         { float:left; text-align:left; white-space:nowrap;}
+#drill-down-block            { float:right; text-align:right;}
+#footer                      { font-size:10pt; z-index:0; padding:0px;position:relative;clear:both;  width:900px}
+#footer                      { text-align:center;}
+#footer a,
+#footer a:link,
+#footer a:visited,
+#footer a:active,
+#footer a:hover              { font-size:10pt; text-align:center;}
+#footer-content              { font-size:10pt; text-align:center;}
+#footer-divider              { font-size:10pt; margin:3px 0px; width: 900px; height:1px; background-color: #000000;}
+#footer-rss                  { font-size:10pt; clear:both;}
+#footer-translate            { font-size:10pt; display:block; clear:both; font-size:8pt; padding:2px; text-align:center;}
+#footer-copyright            { font-size:10pt; }
+#footer-counter              { font-size:10pt;  margin:0px auto; text-align:center;}
+#footer-subscriber           { font-size:10pt; white-space:nowrap;}
+#skel-mid-cont               { position:relative; width:900px; border:0px; padding:0px; margin:0px auto;}
+#skel-top-block				 { position:relative;float:left;width:100%;}
+#skel-top-cont               { white-space:normal;width:auto;}
+#skel-mid-vert-left-cont     { float:left; width:880px;}
+#skel-mid-left-cont          { float:left; width:130px; }
+#footer-section-message      { font-size:10pt; width:px; margin-top:15px;}
+#skel-mid-vert-center-cont   { float:right; width:750px; }
+#skel-mid-center-cont        { padding-left:15px; }
+#skel-mid-center-cont        { padding-right:5px; }
+#skel-mid-center-cont        { float:left; width:750px; }
+#skel-mid-center-block       { width:auto; }
+#skel-mid-vert-right-cont    { float:right; width:0px; }
+#skel-mid-right-cont         { float:left; width:0px; }
+#skel-bottom-cont            { white-space:normal; clear:both; width:auto; }
+#skel-bottom-block			 { position:relative;float:left;width:100%;}
+.skel-nav-cont { background-color: transparent;  }
+#skel-nav-cont { padding: 0px; }
+#skel-mid-vert-center-cont { width:100%; padding: 0px; }
+		</style>
+		<title>Okemos High School - Home</title>
+<link rel="stylesheet" href="/education/includes/styles/sc_print.css" type="text/css" media="print"/>
+<link rel="stylesheet" href="/education/includes/styles/sc_main.css" type="text/css"/>
+<script type="text/javascript">
+	<!--//
+    var ace_on                = false;
+    var str_path_root         = '/education/';
+    var str_path_includes     = str_path_root + 'includes/scripts/';
+    function do_collapseMenu(x, y) {} 
+    function expandMenu(x, y) {} 
+	//-->
+</script>
+<script type="text/javascript" src="/education/includes/scripts/prototype.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.5.1/jquery.min.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.10/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/education/includes/scripts/ace/3_4_2/jscripts/tiny_mce/plugins/media/js/embed.js"></script>
+<script type="text/javascript" src="/education/includes/scripts/sc_proposals_ie.js"></script>
+<script type="text/javascript">
+	<!--//
+    var BR                           = "\n";
+    var currentUser                  = false;
+    var objData                      = false;
+    var isStartPage                  = false;
+    var adminNav                     = false;
+    var RootPath                     = '../';
+    var scSpellingPath               = '/education/';
+    var scLocalImage                 = '../';
+    var nDetailID                    = '160';
+    var int_section_id               = '14';
+    var int_display_section          = '';
+    var int_user_id                  = '0';
+    var timeStamp                    = '1406409181';
+    var ThisURL                      = '/education/school/school.php';
+    var jsGo                         = '';
+    var jsCat                        = '';
+    var settingsBackURL              = 'L2VkdWNhdGlvbi9zY2hvb2wvc2Nob29sLnBocD9zZWN0aW9uZGV0YWlsaWQ9MTYw';
+    var numOffset                    = '-1';
+    var int_sectionlist_category_id  = '0';
+    var int_component_type_id        = '1';
+    var clr_background               = 'FFFFFF';
+    var clr_foreground               = '000000';
+    var clr_sidebar                  = 'CCCCCC';
+    var clr_linknormal               = '0033CC';
+    var clr_linkactive               = '0033CC';
+    var clr_linkvisited              = '0033CC';
+    var clr_header                   = '006699';
+    var clr_titlefontcolor           = '00FFFF';
+    var clr_subtitlefontcolor        = '660000';
+    var clr_subtitlebgcolor          = 'CCCCCC';
+    var clr_linkcolorroll            = '';
+    var clr_navlinkcolor             = '660000';
+    var clr_navlinkroll              = '99CCFF';
+    var clr_navlinkfontroll          = '000000';
+    var clr_navboxbordercolor        = '';
+    var clr_navlinkbgcolor           = 'transparent';
+    var clr_titletablebg             = '006699';
+    var str_global_font_face         = 'verdana, arial, helvetica';
+    var bit_printer_friendly         = '';
+
+var obj_browser = null;
+var browsr      = null;
+function scLoader() {
+    obj_browser = new browserCheck();
+    browsr = obj_browser;
+    obj_scribbon.adjustPage();
+    arr_thumb_imgs = $J(".thumb_sm, .thumb_md, .thumb_lg");
+                                        if ((arr_thumb_imgs != null) && arr_thumb_imgs.length) {
+                                          $J.each(arr_thumb_imgs, function(key, elm) {
+                                                elm.onclick = function() { window.open(elm.src.replace(/_thumb/i, "")); };
+                                                elm.style.cursor = "pointer";
+                                            }); 
+                                        };
+}
+window.onload = scLoader;
+
+//-->
+</script>
+<script type="text/javascript" src="/education/includes/scripts/sc_main.js"></script>
+<script type="text/javascript" src="/education/includes/scripts/class.scribbon.js"></script>
+<script type="text/javascript" src="/education/includes/scripts/sc_navigation.js"></script>
+<link rel="stylesheet" href="/education/includes/styles/sc_frames.css" type="text/css" />
+<link rel="stylesheet" href="/education/includes/styles/skins/v7/page.css" type="text/css" />
+<link rel="stylesheet" href="/education/includes/styles/skins/v7/shared.css" type="text/css" />
+<link rel="stylesheet" href="/education/includes/scripts/jquery/themes/ui-lightness/jquery-ui-1.8.7.custom.css" type="text/css" />
+<script type="text/javascript">
+	<!--//
+bit_scimage = 1;var obj_scribbon	= new ToolbarSCRibbon("skin-scribbon", 0, 2);
+var obj_organizer	= new SCRibbon("skin-organizer", 1);
+	//-->
+</script>
+<script type="text/javascript">
+	<!--//
+	//-->
+</script>
+<script type="text/javascript" src="/education/includes/scripts/sc_navgroup.js"></script>
+<style type="text/css">.nav-menu-outer-block-horizontal-primary-float li a {
+    background-color:#660000 !important;
+    color:#ffffff !important;
+    font-weight:bold;	
+}
+
+.nav-menu-outer-block-horizontal-primary-float li a:hover{
+  background-color:#99ccff !important;
+  color:#000000 !important;
+}
+
+.nav-menu-outer-block-vertical-primary-float {
+    font-weight:bold;
+}
+
+.nav-menu-outer-container-vertical-secondary-float-1 ul li a {		/*(This is for the static state)*/
+    font-weight:bold;
+}
+
+.nav-menu-outer-container-vertical-secondary-float-4 ul li a {		/*(This is for the static state)*/
+    font-weight:bold;
+}</style>	</head>
+    <body>
+    <div id="global-container">
+    <a name="top"></a>
+<div id="scBody">
+		<div id="page">
+			<table id="page-frame" cellpadding="0" cellspacing="0"align="center">
+				<tr>
+					<td id="page-frame-topleft"></td>
+					<td id="page-frame-top">
+				<div id="header">
+<table id="horizontal-border-container-table" border="0" cellpadding="0" cellspacing="0">
+   <tr>
+       <td id="horizontal-border-container-table-td">
+<div id="image-container" style="height: 150px; overflow: hidden;">
+	<table id="image-tbl" cellpadding="0" cellspacing="0" >
+		<tr>
+			<td id="image-tbl-td" align="center">
+              <img  src="/images/headers/header_theme_61.jpg" border="0" hspace="0" vspace="0"  height="150"  width="900"  alt="Okemos High School" title="Okemos High School" />
+           </td>
+		</tr>
+	</table>
+</div>
+      </td>
+   </tr>
+</table>
+				</div>
+					</td>
+					<td id="page-frame-topright"></td>
+</tr>
+<tr>
+					<td id="page-frame-left"></td>
+					<td id="page-content">
+						<div id="main">
+					<div id="skel-top-cont">
+						<div id="skel-top-block">
+<!-- Begin Nav -->
+
+<div   id="nav-menu-container-1-0" class="nav-menu-outer-container-horizontal-primary-float-1" >
+    <ul id="nav-menu-block-1-0" class="nav-menu-outer-block-horizontal-primary-float" >
+        <li id="nav-link-container-1-0-54004" class="nav-menu-link-container-horizontal-primary-float" >
+            <a href="../school/school.php?sectiondetailid=160&amp;" id="nav-link-1-0-54004" class="nav-menu-link-horizontal-primary-float nav-menu-auxilliary-link-horizontal-item-first nav-menu-auxilliary-link-horizontal-item-primary-selected"  style="">Home</a>
+        </li>
+        <li id="nav-link-container-1-0-54005" class="nav-menu-link-container-horizontal-primary-float" >
+            <a  href="javascript://;" onmouseout="do_collapseMenu(154005, 0);" onmouseover="expandMenu(0, 'nav-menu-container-1-54005');" id="nav-link-1-0-54005" class="nav-menu-link-horizontal-primary-float nav-menu-auxilliary-link-horizontal-item-middle nav-menu-auxilliary-link-horizontal-item-primary-unselected"  style="">Back To School</a>
+            <div   onmouseout="do_collapseMenu(154005,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54005');" id="nav-menu-container-1-54005" class="nav-menu-outer-container-vertical-secondary-float-1" >
+                <ul id="nav-menu-block-1-54005" class="nav-menu-outer-block-vertical-secondary-float" >
+                    <li onmouseout="do_collapseMenu(154005,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54005');" id="nav-link-container-1-54005-54006" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/docmgr/default.php?sectiondetailid=17130&amp;linkid=nav-menu-container-1-54005" id="nav-link-1-54005-54006" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-first nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Senior Class of 2015</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154005,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54005');" id="nav-link-container-1-54005-54007" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/docmgr/default.php?sectiondetailid=17131&amp;linkid=nav-menu-container-1-54005" id="nav-link-1-54005-54007" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Junior Class of 2016</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154005,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54005');" id="nav-link-container-1-54005-54008" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/docmgr/default.php?sectiondetailid=17132&amp;linkid=nav-menu-container-1-54005" id="nav-link-1-54005-54008" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Sophomore Class of 2017</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154005,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54005');" id="nav-link-container-1-54005-54009" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/docmgr/default.php?sectiondetailid=17133&amp;linkid=nav-menu-container-1-54005" id="nav-link-1-54005-54009" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-last nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Freshmen Class of 2018</a>
+                    </li>
+                </ul>
+            </div>
+        </li>
+        <li id="nav-link-container-1-0-54010" class="nav-menu-link-container-horizontal-primary-float" >
+            <a  href="javascript://;" onmouseout="do_collapseMenu(154010, 0);" onmouseover="expandMenu(0, 'nav-menu-container-1-54010');" id="nav-link-1-0-54010" class="nav-menu-link-horizontal-primary-float nav-menu-auxilliary-link-horizontal-item-middle nav-menu-auxilliary-link-horizontal-item-primary-unselected"  style="">Calendars</a>
+            <div   onmouseout="do_collapseMenu(154010,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54010');" id="nav-menu-container-1-54010" class="nav-menu-outer-container-vertical-secondary-float-1" >
+                <ul id="nav-menu-block-1-54010" class="nav-menu-outer-block-vertical-secondary-float" >
+                    <li onmouseout="do_collapseMenu(154010,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54010');" id="nav-link-container-1-54010-54011" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/calendar/calendar.php?sectiondetailid=162&amp;linkid=nav-menu-container-1-54010" id="nav-link-1-54010-54011" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-first nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Calendar</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154010,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54010');" id="nav-link-container-1-54010-54012" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="http://www.okemosschools.net/education/components/calendar/calendar.php?sectiondetailid=598&linkid=nav-menu-container-1-14118" id="nav-link-1-54010-54012" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected" target="_blank"  style="padding-left:5px; padding-right:5px; ">District Calendar</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154010,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54010');" id="nav-link-container-1-54010-54013" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/scrapbook/default.php?sectiondetailid=5415&amp;linkid=nav-menu-container-1-54010" id="nav-link-1-54010-54013" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Fine Arts Calendar</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154010,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54010');" id="nav-link-container-1-54010-54014" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="http://www.okemosschools.net/education/components/calendar/calendar.php?sectiondetailid=8778&" id="nav-link-1-54010-54014" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-last nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Guidance Calendar</a>
+                    </li>
+                </ul>
+            </div>
+        </li>
+        <li id="nav-link-container-1-0-54015" class="nav-menu-link-container-horizontal-primary-float" >
+            <a  href="javascript://;" onmouseout="do_collapseMenu(154015, 0);" onmouseover="expandMenu(0, 'nav-menu-container-1-54015');" id="nav-link-1-0-54015" class="nav-menu-link-horizontal-primary-float nav-menu-auxilliary-link-horizontal-item-middle nav-menu-auxilliary-link-horizontal-item-primary-unselected"  style="">Guidance Services</a>
+            <div   onmouseout="do_collapseMenu(154015,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54015');" id="nav-menu-container-1-54015" class="nav-menu-outer-container-vertical-secondary-float-1" >
+                <ul id="nav-menu-block-1-54015" class="nav-menu-outer-block-vertical-secondary-float" >
+                    <li onmouseout="do_collapseMenu(154015,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54015');" id="nav-link-container-1-54015-54016" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="http://www.careercruising.com/Default.aspx" id="nav-link-1-54015-54016" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-first nav-menu-auxilliary-link-vertical-item-secondary-unselected" target="_blank"  style="padding-left:5px; padding-right:5px; ">Career Cruising</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154015,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54015');" id="nav-link-container-1-54015-54017" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/scrapbook/default.php?sectiondetailid=11069&amp;linkid=nav-menu-container-1-54015" id="nav-link-1-54015-54017" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Drop/Add</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154015,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54015');" id="nav-link-container-1-54015-54018" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../staff/staff.php?sectiondetailid=8779&amp;linkid=nav-menu-container-1-54015" id="nav-link-1-54015-54018" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-last nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Guidance Services</a>
+                    </li>
+                </ul>
+            </div>
+        </li>
+        <li id="nav-link-container-1-0-54019" class="nav-menu-link-container-horizontal-primary-float" >
+            <a  href="javascript://;" onmouseout="do_collapseMenu(154019, 0);" onmouseover="expandMenu(0, 'nav-menu-container-1-54019');" id="nav-link-1-0-54019" class="nav-menu-link-horizontal-primary-float nav-menu-auxilliary-link-horizontal-item-middle nav-menu-auxilliary-link-horizontal-item-primary-unselected"  style="">Parent/Student Info</a>
+            <div   onmouseout="do_collapseMenu(154019,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54019');" id="nav-menu-container-1-54019" class="nav-menu-outer-container-vertical-secondary-float-1" >
+                <ul id="nav-menu-block-1-54019" class="nav-menu-outer-block-vertical-secondary-float" >
+                    <li onmouseout="do_collapseMenu(154019,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54019');" id="nav-link-container-1-54019-54020" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/form/default.php?sectiondetailid=12748&amp;linkid=nav-menu-container-1-54019" id="nav-link-1-54019-54020" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-first nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Change Parent Email</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154019,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54019');" id="nav-link-container-1-54019-54021" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/scrapbook/default.php?sectiondetailid=14696&amp;linkid=nav-menu-container-1-54019" id="nav-link-1-54019-54021" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">CONNECT Freshmen Orientation Info</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154019,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54019');" id="nav-link-container-1-54019-54022" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/scrapbook/default.php?sectiondetailid=5414&amp;linkid=nav-menu-container-1-54019" id="nav-link-1-54019-54022" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Daily Schedule</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154019,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54019');" id="nav-link-container-1-54019-54023" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/scrapbook/default.php?sectiondetailid=13954&amp;linkid=nav-menu-container-1-54019" id="nav-link-1-54019-54023" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Food Service</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154019,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54019');" id="nav-link-container-1-54019-54026" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/scrapbook/default.php?sectiondetailid=15042&amp;linkid=nav-menu-container-1-54019" id="nav-link-1-54019-54026" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">OHS Parent Group</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154019,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54019');" id="nav-link-container-1-54019-54027" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/scrapbook/default.php?sectiondetailid=15965&amp;linkid=nav-menu-container-1-54019" id="nav-link-1-54019-54027" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Okemos District Parent Council</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154019,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54019');" id="nav-link-container-1-54019-54028" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/docmgr/default.php?sectiondetailid=17460&amp;linkid=nav-menu-container-1-54019" id="nav-link-1-54019-54028" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Online Learning (Section 21f)</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154019,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54019');" id="nav-link-container-1-54019-54029" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/scrapbook/default.php?sectiondetailid=15053&amp;linkid=nav-menu-container-1-54019" id="nav-link-1-54019-54029" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Parent & Student Information</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154019,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54019');" id="nav-link-container-1-54019-54030" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="http://www.okemosschools.net/education/components/docmgr/download.php?sectiondetailid=164&fileitem=41345&catfilter=97" id="nav-link-1-54019-54030" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Plagiarism 9th10th</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154019,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54019');" id="nav-link-container-1-54019-54031" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="http://www.okemosschools.net/education/components/docmgr/download.php?sectiondetailid=164&fileitem=41346&catfilter=97" id="nav-link-1-54019-54031" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Plagiarism 11th12th</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154019,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54019');" id="nav-link-container-1-54019-54032" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/scrapbook/default.php?sectiondetailid=17456&amp;linkid=nav-menu-container-1-54019" id="nav-link-1-54019-54032" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Special Education Parent Group</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154019,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54019');" id="nav-link-container-1-54019-54033" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/docmgr/default.php?sectiondetailid=16370&amp;linkid=nav-menu-container-1-54019" id="nav-link-1-54019-54033" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-last nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Testing Out 2014</a>
+                    </li>
+                </ul>
+            </div>
+        </li>
+        <li id="nav-link-container-1-0-54034" class="nav-menu-link-container-horizontal-primary-float" >
+            <a  href="javascript://;" onmouseout="do_collapseMenu(154034, 0);" onmouseover="expandMenu(0, 'nav-menu-container-1-54034');" id="nav-link-1-0-54034" class="nav-menu-link-horizontal-primary-float nav-menu-auxilliary-link-horizontal-item-last nav-menu-auxilliary-link-horizontal-item-primary-unselected"  style="">Teachers & Staff</a>
+            <div   onmouseout="do_collapseMenu(154034,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54034');" id="nav-menu-container-1-54034" class="nav-menu-outer-container-vertical-secondary-float-1" >
+                <ul id="nav-menu-block-1-54034" class="nav-menu-outer-block-vertical-secondary-float" >
+                    <li onmouseout="do_collapseMenu(154034,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54034');" id="nav-link-container-1-54034-54035" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/sectionlist/default.php?sectiondetailid=161&amp;linkid=nav-menu-container-1-54034" id="nav-link-1-54034-54035" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-first nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Departments</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154034,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54034');" id="nav-link-container-1-54034-54036" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/scrapbook/default.php?sectiondetailid=14927&amp;linkid=nav-menu-container-1-54034" id="nav-link-1-54034-54036" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Staff Directory</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(154034,0);"  onmouseover="expandMenu(0,'nav-menu-container-1-54034');" id="nav-link-container-1-54034-54037" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/scrapbook/default.php?sectiondetailid=15166&amp;linkid=nav-menu-container-1-54034" id="nav-link-1-54034-54037" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-last nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:5px; padding-right:5px; ">Teacher Info Page</a>
+                    </li>
+                </ul>
+            </div>
+        </li>
+    </ul>
+</div>
+
+<!-- End Nav -->
+
+						</div>
+						<div class="clear-both"></div>
+					</div>
+					<div id="skel-mid-cont">
+					<table cellpadding="0" cellspacing="0" border="0">
+						<tr>
+							<td valign="top" class="skel-nav-cont">
+								<div id="skel-mid-left-cont">
+									<div id="skel-mid-left-block">
+<!-- Begin Nav -->
+
+<div   id="nav-menu-container-4-0" class="nav-menu-outer-container-vertical-primary-float-4" >
+    <ul id="nav-menu-block-4-0" class="nav-menu-outer-block-vertical-primary-float" >
+        <li id="nav-link-container-4-0-54039" class="nav-menu-link-container-vertical-primary-float" >
+            <a href="../components/scrapbook/default.php?sectiondetailid=17135&amp;" id="nav-link-4-0-54039" class="nav-menu-link-vertical-primary-float nav-menu-auxilliary-link-vertical-item-first nav-menu-auxilliary-link-vertical-item-primary-unselected"  style="padding-left:10px; padding-right:10px; ">Achievements-Points of Pride</a>
+        </li>
+        <li id="nav-link-container-4-0-54040" class="nav-menu-link-container-vertical-primary-float" >
+            <a href="../components/scrapbook/default.php?sectiondetailid=6837&amp;" id="nav-link-4-0-54040" class="nav-menu-link-vertical-primary-float nav-menu-auxilliary-link-vertical-item-middle nav-menu-auxilliary-link-vertical-item-primary-unselected"  style="padding-left:10px; padding-right:10px; ">Alumni Information</a>
+        </li>
+        <li id="nav-link-container-4-0-54042" class="nav-menu-link-container-vertical-primary-float" >
+            <a href="../components/scrapbook/default.php?sectiondetailid=17508&amp;" id="nav-link-4-0-54042" class="nav-menu-link-vertical-primary-float nav-menu-auxilliary-link-vertical-item-middle nav-menu-auxilliary-link-vertical-item-primary-unselected"  style="padding-left:10px; padding-right:10px; ">Athletics Website</a>
+        </li>
+        <li id="nav-link-container-4-0-54043" class="nav-menu-link-container-vertical-primary-float" >
+            <a href="../components/calendar/calendar.php?sectiondetailid=162&amp;" id="nav-link-4-0-54043" class="nav-menu-link-vertical-primary-float nav-menu-auxilliary-link-vertical-item-middle nav-menu-auxilliary-link-vertical-item-primary-unselected"  style="padding-left:10px; padding-right:10px; ">Calendar</a>
+        </li>
+        <li id="nav-link-container-4-0-54044" class="nav-menu-link-container-vertical-primary-float" >
+            <a  href="javascript://;" onmouseout="do_collapseMenu(454044, 0);" onmouseover="expandMenu(0, 'nav-menu-container-4-54044');" id="nav-link-4-0-54044" class="nav-menu-link-vertical-primary-float nav-menu-auxilliary-link-vertical-item-middle nav-menu-auxilliary-link-vertical-item-primary-unselected"  style="padding-left:10px; padding-right:10px; ">Clubs and Groups</a>
+            <div   onmouseout="do_collapseMenu(454044,0);"  onmouseover="expandMenu(0,'nav-menu-container-4-54044');" id="nav-menu-container-4-54044" class="nav-menu-outer-container-vertical-secondary-float-4" >
+                <ul id="nav-menu-block-4-54044" class="nav-menu-outer-block-vertical-secondary-float" >
+                    <li onmouseout="do_collapseMenu(454044,0);"  onmouseover="expandMenu(0,'nav-menu-container-4-54044');" id="nav-link-container-4-54044-54045" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/scrapbook/default.php?sectiondetailid=16212&amp;linkid=nav-menu-container-4-54044" id="nav-link-4-54044-54045" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-first nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:10px; padding-right:10px; ">2013-14 Club Descriptions</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(454044,0);"  onmouseover="expandMenu(0,'nav-menu-container-4-54044');" id="nav-link-container-4-54044-54046" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../club/club.php?sectiondetailid=2223&amp;linkid=nav-menu-container-4-54044" id="nav-link-4-54044-54046" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:10px; padding-right:10px; ">A.C.T.I.O.N.</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(454044,0);"  onmouseover="expandMenu(0,'nav-menu-container-4-54044');" id="nav-link-container-4-54044-54048" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/scrapbook/default.php?sectiondetailid=17127&amp;linkid=nav-menu-container-4-54044" id="nav-link-4-54044-54048" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:10px; padding-right:10px; ">CONNECT Crew</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(454044,0);"  onmouseover="expandMenu(0,'nav-menu-container-4-54044');" id="nav-link-container-4-54044-54049" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/scrapbook/default.php?sectiondetailid=17036&amp;linkid=nav-menu-container-4-54044" id="nav-link-4-54044-54049" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:10px; padding-right:10px; ">Drama Club</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(454044,0);"  onmouseover="expandMenu(0,'nav-menu-container-4-54044');" id="nav-link-container-4-54044-54050" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/scrapbook/default.php?sectiondetailid=17373&amp;linkid=nav-menu-container-4-54044" id="nav-link-4-54044-54050" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:10px; padding-right:10px; ">GSA Club</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(454044,0);"  onmouseover="expandMenu(0,'nav-menu-container-4-54044');" id="nav-link-container-4-54044-54051" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/sectionlist/default.php?sectiondetailid=12241&amp;linkid=nav-menu-container-4-54044" id="nav-link-4-54044-54051" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:10px; padding-right:10px; ">Newspaper - The OHS Press</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(454044,0);"  onmouseover="expandMenu(0,'nav-menu-container-4-54044');" id="nav-link-container-4-54044-54052" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../club/club.php?sectiondetailid=2235&amp;linkid=nav-menu-container-4-54044" id="nav-link-4-54044-54052" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:10px; padding-right:10px; ">N.H.S.</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(454044,0);"  onmouseover="expandMenu(0,'nav-menu-container-4-54044');" id="nav-link-container-4-54044-54053" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/scrapbook/default.php?sectiondetailid=15133&amp;linkid=nav-menu-container-4-54044" id="nav-link-4-54044-54053" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:10px; padding-right:10px; ">Quiz Bowl</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(454044,0);"  onmouseover="expandMenu(0,'nav-menu-container-4-54044');" id="nav-link-container-4-54044-54054" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/scrapbook/default.php?sectiondetailid=17038&amp;linkid=nav-menu-container-4-54044" id="nav-link-4-54044-54054" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-middle nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:10px; padding-right:10px; ">Robotics Club</a>
+                    </li>
+                    <li onmouseout="do_collapseMenu(454044,0);"  onmouseover="expandMenu(0,'nav-menu-container-4-54044');" id="nav-link-container-4-54044-54055" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/scrapbook/default.php?sectiondetailid=17037&amp;linkid=nav-menu-container-4-54044" id="nav-link-4-54044-54055" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-last nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:10px; padding-right:10px; ">Student Council</a>
+                    </li>
+                </ul>
+            </div>
+        </li>
+        <li id="nav-link-container-4-0-54057" class="nav-menu-link-container-vertical-primary-float" >
+            <a href="../components/docmgr/default.php?sectiondetailid=17144&amp;" id="nav-link-4-0-54057" class="nav-menu-link-vertical-primary-float nav-menu-auxilliary-link-vertical-item-middle nav-menu-auxilliary-link-vertical-item-primary-unselected"  style="padding-left:10px; padding-right:10px; ">Curriculum Guide / Handbook</a>
+        </li>
+        <li id="nav-link-container-4-0-54061" class="nav-menu-link-container-vertical-primary-float" >
+            <a href="/education/staff/staff.php?sectionid=975&sc_id=1166645825" id="nav-link-4-0-54061" class="nav-menu-link-vertical-primary-float nav-menu-auxilliary-link-vertical-item-middle nav-menu-auxilliary-link-vertical-item-primary-unselected"  style="padding-left:10px; padding-right:10px; ">Library Media Center</a>
+        </li>
+        <li id="nav-link-container-4-0-54065" class="nav-menu-link-container-vertical-primary-float" >
+            <a href="../components/docmgr/default.php?sectiondetailid=17460&amp;" id="nav-link-4-0-54065" class="nav-menu-link-vertical-primary-float nav-menu-auxilliary-link-vertical-item-middle nav-menu-auxilliary-link-vertical-item-primary-unselected"  style="padding-left:10px; padding-right:10px; ">Online Learning (Section 21f)</a>
+        </li>
+        <li id="nav-link-container-4-0-54066" class="nav-menu-link-container-vertical-primary-float" >
+            <a href="../components/scrapbook/default.php?sectiondetailid=17244&amp;" id="nav-link-4-0-54066" class="nav-menu-link-vertical-primary-float nav-menu-auxilliary-link-vertical-item-middle nav-menu-auxilliary-link-vertical-item-primary-unselected"  style="padding-left:10px; padding-right:10px; ">OPS Standardized Logo - Toolkit</a>
+        </li>
+        <li id="nav-link-container-4-0-54067" class="nav-menu-link-container-vertical-primary-float" >
+            <a href="../components/scrapbook/default.php?sectiondetailid=17612&amp;" id="nav-link-4-0-54067" class="nav-menu-link-vertical-primary-float nav-menu-auxilliary-link-vertical-item-middle nav-menu-auxilliary-link-vertical-item-primary-unselected"  style="padding-left:10px; padding-right:10px; ">School to Home Communication</a>
+        </li>
+        <li id="nav-link-container-4-0-54068" class="nav-menu-link-container-vertical-primary-float" >
+            <a  href="javascript://;" onmouseout="do_collapseMenu(454068, 0);" onmouseover="expandMenu(0, 'nav-menu-container-4-54068');" id="nav-link-4-0-54068" class="nav-menu-link-vertical-primary-float nav-menu-auxilliary-link-vertical-item-middle nav-menu-auxilliary-link-vertical-item-primary-unselected"  style="padding-left:10px; padding-right:10px; ">Spirit Shop</a>
+            <div   onmouseout="do_collapseMenu(454068,0);"  onmouseover="expandMenu(0,'nav-menu-container-4-54068');" id="nav-menu-container-4-54068" class="nav-menu-outer-container-vertical-secondary-float-4" >
+                <ul id="nav-menu-block-4-54068" class="nav-menu-outer-block-vertical-secondary-float" >
+                    <li onmouseout="do_collapseMenu(454068,0);"  onmouseover="expandMenu(0,'nav-menu-container-4-54068');" id="nav-link-container-4-54068-54069" class="nav-menu-link-container-vertical-secondary-float" >
+                        <a href="../components/scrapbook/default.php?sectiondetailid=5431&amp;linkid=nav-menu-container-4-54068" id="nav-link-4-54068-54069" class="nav-menu-link-vertical-secondary-float nav-menu-auxilliary-link-vertical-item-all-first nav-menu-auxilliary-link-vertical-item-secondary-unselected"  style="padding-left:10px; padding-right:10px; ">School Store</a>
+                    </li>
+                </ul>
+            </div>
+        </li>
+        <li id="nav-link-container-4-0-54076" class="nav-menu-link-container-vertical-primary-float" >
+            <a href="../components/scrapbook/default.php?sectiondetailid=7534&amp;" id="nav-link-4-0-54076" class="nav-menu-link-vertical-primary-float nav-menu-auxilliary-link-vertical-item-last nav-menu-auxilliary-link-vertical-item-primary-unselected"  style="padding-left:10px; padding-right:10px; ">Yearbook</a>
+        </li>
+    </ul>
+</div>
+
+<!-- End Nav -->
+
+									</div>
+									<div class="clear-both"></div>
+								</div>
+							</td>
+                       <td valign="top" id="skel-mid-vert-center-cont">
+							<div id="skel-mid-center-cont">
+								<div id="skel-mid-center-block" >
+									<div id="info-bar-container">
+										<div id="info-bar-block">
+<div id="drill-down-block" class="standard-01">
+<a href="../district/district.php?sectionid=1" title="Okemos Public Schools">Okemos Public Schools</a>&nbsp;&gt;&nbsp;<a href="../components/sectionlist/default.php?sectiondetailid=5" title="Schools">Schools</a>&nbsp;&gt;&nbsp;<a href="../school/school.php?sectiondetailid=160" title="Home">Home</a>&nbsp;
+</div>
+<div id="info-bar-date-block" class="standard-01">7/26/14</div>
+
+											<div class="clear-all"></div>
+										</div>
+									</div>
+									<div id="content-container">
+										<div id="content">
+<div class="pageitem-container" style="width: auto;"><table id="sc-pageitem-15535" cellpadding="0" cellspacing="0" width="100%">    <tr>                    <td valign="top"><span class="css-editor-pageitem-text css-editor-pageitem-text css-editor-pageitem-text-15535"><center><div style="width: auto; height: auto; text-align: center;"><object id="scmedia2777829" width="720" height="540" classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" alt="OHS"><param name="src" value="/images/ace/160/7574b57af2a32f60c37821363287ad59.swf" /><param name="autoplay" value="false" /><param name="autostart" value="false" /><param name="wmode" value="opaque" /><param name="play" value="false" /><param name="loop" value="true" /><param name="quality" value="high" /><embed id="scmedia2777829" width="720" height="540" type="application/x-shockwave-flash" src="/images/ace/160/7574b57af2a32f60c37821363287ad59.swf" alt="OHS" autoplay="false" autostart="false" wmode="opaque" play="false" loop="true" quality="high" /></object></div></center><p></p><div style="text-align: left; color: #000000; font-size: 13px;"><p style="text-align: center;">&nbsp;</p></div></span></td>                </tr>            </table></div>
+<br/>
+<a name="gotonew"></a>
+<form style="border:0px; margin:0px; padding:0px;" action="/education/school/school.php?sectiondetailid=160&amp;#gotonew" method="post" name="form1" id="form1">
+<input type="hidden" id="newsort" name="newsort" value="2" />
+</form>
+
+<style type="text/css">
+.newsletter-grid-col-1 { padding-left: 10px !important; }
+</style><table id="newsletter-grid-table" width="98%" cellpadding="0" cellspacing="0">
+	<colgroup id="newsletter-colgroup">
+		<col id="newsletter-col-0" width="50%"></col>
+		<col id="newsletter-col-1" width="50%"></col>
+	</colgroup>
+	<tbody id="newsletter-tbody">
+		<tr id="newsletter-grid-bottom-row">
+			<td id="newsletter-grid-bottom-cell-0"><img width="5" height="5" src="../graphics/trans.gif"></td>
+			<td id="newsletter-grid-bottom-cell-1"><img width="5" height="5" src="../graphics/trans.gif"></td>
+		</tr>
+	</tbody>
+</table>
+
+										</div>
+									</div>
+									<div class="clear-both"></div>
+								</div>
+							</div>
+						</td>
+					</tr>
+				</table>
+					</div>
+					<div class="clear-both"></div>
+				</div>
+						<div id="footer">
+<div id="footer-content">
+	<div id="footer-last-updated">Last updated: Jul 24 2014 10:46:31 am EST</div>
+	<div id="footer-copyright">&copy; 2006&nbsp;-&nbsp;2014&nbsp;&nbsp;<a style="font-size:10pt;" href="../district/district.php?sectionid=1" class="drillDown" title="Okemos Public Schools">Okemos Public Schools</a>&nbsp;&gt;&nbsp;Okemos High School.&nbsp;All Rights Reserved.</div>
+	<div class="clear-both"></div>
+</div>
+						</div>
+						<div class="clear-both"></div>
+					</td>
+					<td id="page-frame-right"></td>
+		</tr>
+		<tr>
+			<td id="page-frame-bottomleft"></td>
+			<td id="page-frame-bottom"></td>
+			<td id="page-frame-bottomright"></td>
+		</tr>
+	</table>
+		</div>
+	</center>
+</div>
+<iframe id="sc_menu_cover" name="sc_menu_cover" src="../graphics/trans.gif" frameBorder="0" scrolling="no" width="0" height="0" bgcolor="white" style="background-color:white; position:absolute; visibility:hidden; display:block; top:0px; left:0px; width:0px; height:0px;"></iframe>
+   </div>
+   <div id="extra-1"></div>
+<!--c2Nob29sY2VudGVyNGQzMGJkZWE3ZWE5NTcuOTMzODg4Mzg=-->
+   </body>
+</html>
